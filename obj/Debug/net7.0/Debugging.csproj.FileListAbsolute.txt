@@ -1,0 +1,14 @@
+C:\Aplicaciones\Coding dojo\Clases\C#\Debugging\obj\Debug\net7.0\Debugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aplicaciones\Coding dojo\Clases\C#\Debugging\obj\Debug\net7.0\Debugging.AssemblyInfoInputs.cache
+C:\Aplicaciones\Coding dojo\Clases\C#\Debugging\obj\Debug\net7.0\Debugging.AssemblyInfo.cs
+C:\Aplicaciones\Coding dojo\Clases\C#\Debugging\obj\Debug\net7.0\Debugging.csproj.CoreCompileInputs.cache
+C:\Aplicaciones\Coding dojo\Clases\C#\Debugging\bin\Debug\net7.0\Debugging.exe
+C:\Aplicaciones\Coding dojo\Clases\C#\Debugging\bin\Debug\net7.0\Debugging.deps.json
+C:\Aplicaciones\Coding dojo\Clases\C#\Debugging\bin\Debug\net7.0\Debugging.runtimeconfig.json
+C:\Aplicaciones\Coding dojo\Clases\C#\Debugging\bin\Debug\net7.0\Debugging.dll
+C:\Aplicaciones\Coding dojo\Clases\C#\Debugging\bin\Debug\net7.0\Debugging.pdb
+C:\Aplicaciones\Coding dojo\Clases\C#\Debugging\obj\Debug\net7.0\Debugging.dll
+C:\Aplicaciones\Coding dojo\Clases\C#\Debugging\obj\Debug\net7.0\refint\Debugging.dll
+C:\Aplicaciones\Coding dojo\Clases\C#\Debugging\obj\Debug\net7.0\Debugging.pdb
+C:\Aplicaciones\Coding dojo\Clases\C#\Debugging\obj\Debug\net7.0\Debugging.genruntimeconfig.cache
+C:\Aplicaciones\Coding dojo\Clases\C#\Debugging\obj\Debug\net7.0\ref\Debugging.dll
